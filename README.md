@@ -4,7 +4,10 @@ Da bi se projekat izbildovao potrebno je instalirati sledece
 SBT(Simple build tool) verzija: 0.13.15 , Scala verzija: 2.12.1, Java verzija: 1.8.131
     
 Program se bilduje komandom    
+      
+```
 sbt clean compile    
+```
      
 Izvrsni .jar se pravi komandom    
 sbt assembly    
@@ -22,9 +25,9 @@ Izvrsni alat je formata JavaARchive(.jar) i moze se izvrsiti ako na sistemu post
 java -jar kviz.jar         
          
 Autori      
-Marko Mladenovic<marko_ml@yahoo.com>        
-Andrijana Cakarevic<andrijanacakarevic95@gmail.com>        
-Nikola Rajkovic<rajkovic.nikola.995@gmail.com>         
+Marko Mladenovic - marko_ml@yahoo.com        
+Andrijana Cakarevic - andrijanacakarevic95@gmail.com        
+Nikola Rajkovic - rajkovic.nikola.995@gmail.com         
 
     
 
