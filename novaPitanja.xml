@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<pitanja>
+    <pitanje>
+        <tezina>1</tezina>
+        <oblast>objektno-orijentisano programiranje</oblast>
+        <postavka>neko lako objektno orijentisano pitanje</postavka>
+        <odgovor>neki lak objektno orijentisano programiranje odgovor</odgovor>
+    </pitanje>
+    <pitanje>
+        <tezina>4</tezina>
+        <oblast>objektno-orijentisano programiranje</oblast>
+        <postavka>neko srednje objektno orijentisano pitanje</postavka>
+        <odgovor>neki srednje objektno orijentisano programiranje odgovor</odgovor>
+    </pitanje>
+    <pitanje>
+        <tezina>8</tezina>
+        <oblast>objektno-orijentisano programiranje</oblast>
+        <postavka>neko tesko objektno-orijentisano pitanje</postavka>
+        <odgovor>neki tezak objektno orijentisano programiranje odgovor</odgovor>
+    </pitanje>
+    <pitanje>
+        <tezina>3</tezina>
+        <oblast>genericko programiranje</oblast>
+        <postavka>neko srednje genericko programiranje pitanje</postavka>
+        <odgovor>neki srednje genericko programiranje odgovor</odgovor>
+    </pitanje>
+    <pitanje>
+        <tezina>7</tezina>
+        <oblast>skript programiranje</oblast>
+        <postavka>neko tesko skript programiranje pitanje</postavka>
+        <odgovor>neki teski skript programiranje odgovor</odgovor>
+    </pitanje>
+</pitanja>
