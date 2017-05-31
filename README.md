@@ -21,6 +21,10 @@ Razvoj je radjen na OS Linux distribucija Ubuntu 16.04.2 LTS.
 Izvrsni alat je formata JavaARchive(.jar) i moze se izvrsiti ako na sistemu postoji instalirana java komandom       
 java -jar kviz.jar         
          
+Autori      
+Marko Mladenovic<marko_ml@yahoo.com>        
+Andrijana Cakarevic<andrijanacakarevic95@gmail.com>        
+Nikola Rajkovic<rajkovic.nikola.995@gmail.com>         
 
     
 
